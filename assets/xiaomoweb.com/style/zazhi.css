@@ -1,0 +1,44 @@
+.dt-news-list{color:#2F363E;font-size:15px;line-height:27px;white-space:normal;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post{float:left;width:calc(50% - 8px);margin-left:0px;margin-bottom:0px;border:0px;padding-left:15px;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-img{margin:0px;float:left;height:auto;position:relative;}
+.dt-news-list .xyti h2 {
+    font-size: 16px;
+}
+.dt-news-list h3{font-size: 18px;}
+.dt-news-list .cmslist{padding: 0px;}
+.dt-news-list .cmslist .xyti{margin-left: 15px;}
+.dt-news-layout-wrap{margin: 15px 0}
+.dt-news-list .dt-news-layout-wrap .attachment-dt-featured-post-medium{vertical-align:middle;height:auto;max-width:100%;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-img a{color:#2F363E;text-decoration:none;transition:all 0.35s ease;background-color:transparent;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-content .dt-news-post-date{font-size:14px;display:inline-block;margin-top:0px;margin-right:25px;padding:5px 0px;opacity:0.7;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-content .dt-news-post-comments{font-size:14px;display:inline-block;margin-top:10px;margin-right:25px;padding:5px 0px;opacity:0.7;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-content h3 a{color:#2F363E;text-decoration:none;transition:all 0.35s ease;background-color:transparent;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-content h3{font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5em;
+    margin: 0;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-content .dt-news-post-desc{line-height:1.8em;margin:18px 0px;opacity:0.95;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-2{float:left;width:calc(50% - 8px);margin-left:16px;margin-bottom:20px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#E5E5E5;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-2 .dt-news-post-img{margin:0px 15px 20px 0px;float:left;width:130px;height:auto;position:relative;}
+.dt-news-list .dt-news-layout-wrap .dt-news-post-2 .attachment-dt-featured-post-medium{vertical-align:middle;height:auto;max-width:100%;}
+.dt-news-list .dt-news-layout2{margin: 15px 0;}
+.dt-news-list .dt-news-layout2 .dt-news-post{width:calc(33.3333% - 20px);transition:all 0.5s ease;float:left;margin-bottom:15px;padding:8px;border:1px solid #E5E5E5;margin-left:15px;background:#FEFEFE;}
+.dt-news-list .dt-news-layout2 .dt-news-post-img{margin:0px;position:relative;overflow:hidden;}
+.dt-news-list .dt-news-layout2 a{color:#2F363E;text-decoration:none;transition:all 0.35s ease;background-color:transparent;}
+.dt-news-list .dt-news-layout2 .attachment-dt-featured-post-medium{vertical-align:middle;height:auto;max-width:100%;width:243.828px;transition:all 0.5s ease;}
+.dt-news-list .dt-news-layout2 .dt-news-post-meta{position:absolute;bottom:0px;left:0px;width:243.828px;height:46px;padding:0px 10px;color:#FFFFFF;background:linear-gradient(rgba(0, 0, 0, 0), #000000);}
+.dt-news-list .dt-news-layout2 .dt-news-post-month{font-size:13px;display:inline-block;margin:0px;padding:5px 0px;opacity:0.7;line-height:1.2em;text-align:right;}
+.dt-news-list .dt-news-layout2 .dt-news-post-day{font-size:30px;display:inline-block;margin-top:10px;margin-right:25px;padding:5px 0px 5px 5px;opacity:0.7;line-height:0.3em;margin-left:5px;border-left-width:1px;border-left-style:solid;border-left-color:#FFFFFF;}
+.dt-news-list .dt-news-layout2 .dt-news-post-desc{font-size:14px;line-height:1.6em;margin:0px;opacity:0.9;min-height:90px;}
+.dt-news-list .dt-news-layout4 .dt-news-post{margin-bottom:0px;padding:15px;border-width:0px 1px 1px 0px;border-bottom-style:solid;border-bottom-color:#E5E5E5;float:left;width:408.75px;border-right-style:solid;border-right-color:#E5E5E5;}
+.dt-news-list .dt-news-layout4 .dt-news-post-img{margin:0px;position:relative;overflow:hidden;max-height:248px;float:left;width:120px;}
+.dt-news-list .dt-news-layout4 .attachment-dt-featured-post-small{vertical-align:middle;height:auto;max-width:100%;}
+.dt-news-list .dt-news-layout4 .dt-news-post-content{float:right;width:calc(100% - 135px);}
+.dt-news-list .dt-news-layout4 .dt-news-post-content h3{margin: 0px;line-height: 1.3em;}
+.dt-news-list img.scale:hover{-webkit-transform:scale(1.5,1.5);-moz-transform:scale(1.2);-ms-transform:scale(1.2);-o-transform:scale(1.2);transition: .3s transform;}
+
+
+.mzazhi .carousel-inner .item a img{height: 299.222px;}
+.mzazhi .focusbox #homeslider{width: 75%;float: left;margin-bottom: 10px;}
+.mzazhi .focusmo ul {padding: 0px;}
+.mzazhi .focusmo li{width: 100%;}

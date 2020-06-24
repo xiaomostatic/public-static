@@ -1,0 +1,323 @@
+/* 首页 ======================================================================================================== */
+.article-Info{margin: 25px 0;}
+.kkk{line-height:22px;color:#666;float:right;border:1px
+solid #45B6F7;border-radius:4px;padding:1px
+6px
+
+}
+.Infomenu{
+	float: right;
+}
+.Infomenu li{
+	position: relative;
+	padding: 0px 3px;
+	float: left;
+	color: #999;
+}
+.Infomenu li:hover{z-index: 2}
+.Infomenu a{
+	display: block;
+	color: #999;
+}
+.category .content{margin-right: 0;}
+.home .content{margin-right: 0;}
+.excerpts{margin:0;overflow:hidden}
+.excerpt{display:inline-block;width:19%;margin-right:1.5%;margin-bottom:2.5%;vertical-align:top}
+.excerpt .thumbnail{margin-bottom:10px;display:block}
+.excerpt footer{font-size:12px;color:#aaa;position:relative}
+.excerpt .post-like{position:absolute;right:0}
+.excerpt:hover{border:1px solid #e50065}/* 红框 */
+.excerpt time{margin:0 10px 0 0;color:#aaa}
+.excerpt time.new{color:#44A921}
+.excerpt time.hot{color:#FF6B57;font-weight:bold}
+.excerpt time.hot .fa{font-weight:normal;margin-right:4px;display:inline-block}
+.excerpt time.prev{color:#0AB5D3}
+a.excerpt-mn-name{line-height:16px;color:#FF8188;font-size:12px;float:right;border:1px solid #FF8188;border-radius:1px;padding:1px 6px}
+a.excerpt-mn-name:hover{background-color:#FF6B57;border-color:#FF6B57;color:#fff}
+
+.image-container{background:#ccc;width:100%;height:0;padding-bottom:55%;overflow:hidden; margin-bottom:2px;}
+.image-container img{width:100%}
+
+.excerpt{
+	border: 1px solid #eaeaea;
+	padding: 10px 10px 10px 10px;
+	overflow: hidden;
+	background-color: #fff;
+	
+	float:left;
+	margin-right:12px;
+	margin-bottom:10px;
+}
+
+.excerpt:hover{
+	background-color: #f9f9f9;
+	position: relative;
+	z-index: 2;
+}
+
+.excerpt header{
+	margin-bottom: 10px;
+}
+.excerpt .cat{
+	color: #fff;
+	background-color: #45BCF9;
+	padding: 2px 4px;
+	font-size: 12px;
+	display: inline-block;
+	position: relative;
+	top: -116px;
+	margin-right: 6px;
+}
+.excerpt .cat:hover{
+	opacity: 0.85;
+	filter:alpha(opacity=85);
+}
+.excerpt .cat i{
+	position: absolute;
+	top: 50%;
+	margin-top: -4px;
+	right: -4px;
+	display: inline-block;
+	width: 0;
+	height: 0;
+	vertical-align: middle;
+	border-left: 4px solid #45BCF9;
+	border-top: 4px solid transparent;
+	border-bottom: 4px solid transparent;
+}
+.excerpt h2 a{line-height:22px;display:block;height:24px;overflow:hidden}
+.excerpt h2{
+	display: inline;
+	font-size: 16px;
+	line-height: 20px;
+	margin-top: 0;
+	font-weight: bold;
+}
+.excerpt h2 a{
+	color: #555;
+}
+.excerpt h2 a:hover{
+	color: #45B6F7;
+}
+.excerpt time, .excerpt .pv, .excerpt .pc, .excerpt .author{
+	margin-right: 16px;
+}
+.excerpt .note{
+	font-size: 12px;
+	color: #999;
+	word-wrap:break-word;
+	line-height: 20px;
+}
+.excerpt .meta{
+	color: #999;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.excerpt .meta .fa{
+	margin-right: 4px;
+}
+.excerpt .meta a{
+	color: #999;
+	text-decoration: none;
+}
+.excerpt .meta a:hover{
+	color: #45B6F7;
+}
+
+
+.excerpt h2 b,
+.excerpt .note b{
+	color: #FF5549;
+}
+.excerpt .note b{
+	font-weight: normal;
+}
+
+
+.excerpt-minic{
+	border: 1px solid #eaeaea;
+	padding: 20px;
+	overflow: hidden;
+	background-color: #fff;
+	margin-bottom: 15px;
+	border-radius: 4px;
+}
+.excerpt-minic h2{
+	font-size: 22px;
+	line-height: 24px;
+	margin-top: 0;
+	font-weight: bold;
+	margin: 0 0 15px;
+}
+.excerpt-minic h2 a{
+	color: #555;
+}
+.excerpt-minic h2 a:hover{
+	color: #45B6F7;
+}
+.excerpt-minic time, .excerpt-minic .pv, .excerpt-minic .pc, .excerpt-minic .author{
+	margin-right: 20px;
+}
+.excerpt-minic .meta{
+	color: #999;
+	margin-bottom: 15px;
+	font-size: 12px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #eaeaea;
+}
+.excerpt-minic .meta .fa{
+	margin-right: 4px;
+}
+.excerpt-minic .meta a{
+	color: #999;
+	text-decoration: underline;
+}
+.excerpt-minic .meta a:hover{
+	color: #45B6F7;
+}
+.excerpt-minic .article-content p{
+	text-indent: 30px;
+}
+.excerpt-minic .article-content p:last-child{
+	margin-bottom: 0;
+}
+.excerpt-minic .note{
+	color: #666;
+	margin-bottom: 0;
+	text-indent: 28px;
+}
+
+.excerpt-minic-index{
+	/*margin-bottom: 20px;*/
+}
+.excerpt-minic-index h2{
+	font-size: 18px;
+}
+.excerpt-minic-index .meta{
+	border-bottom: none;
+	padding-bottom: 0;
+}
+.excerpt-minic-index .red{
+	margin-left: -8px;
+	color: #FF5E52;
+}
+
+
+
+/*相关文章*/
+.relates{
+ margin-top:5px;
+}
+.relates img{
+ height: 140px;
+ width: 100%; 
+}
+.relates ul li{
+/*更新解决*/
+ display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  margin-bottom: -20px;
+  list-style:none;
+}
+.relates ul li a{  
+  font-weight: 400;
+  font-size: 14px;
+  margin: 0 10px;
+  overflow: hidden;
+  display: block;
+/*4篇文章以上错位解决*/
+  height: 202px
+}
+
+.relates li h2{font-weight:normal;font-size:14px;margin:5px
+0 0;height:30px;overflow:hidden}
+/*注册*/
+.focusbanner{
+  text-align: center;
+  margin-bottom: 20px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+background-image:url(../images/bg_04.png)
+}
+.focusbanner .container{
+  padding-top: 88px;
+  padding-right: 60px;
+  text-align: right;
+}
+.focusbanner .btn{margin-left: 10px;}
+
+.btn-user1 {
+  color: #fff;
+  background-color: #fff;
+  border-radius:1px;
+  border-color: #fff;
+}
+.btn-user1:hover, .btn-user:focus, .btn-user:active {
+  color: #333;
+  background-color: #fff;
+  border-color: #fff;
+}
+/*== 播放图标 */
+.content .excerpt a.focus {
+ display: block;
+ -webkit-mask-image: -webkit-radial-gradient(ellipse closest-side,white,white);
+ }
+
+.content .excerpt a.focus img {
+ -webkit-transition: all .2s;
+ -moz-transition: all .2s;
+ -ms-transition: all .2s;
+ transition: all .2s;
+ }
+
+.content .excerpt a img{
+	width: 220px;
+	height: 150px;
+}
+
+.content .excerpt a.focus:before {
+ position: absolute;
+ top: 0;
+ left: 0;
+ z-index: 2;
+ visibility: hidden;
+
+ width: 100%;
+ height: 100%;
+ background: ;
+ content: '';
+ opacity: 0;
+ -ms-filter: "alpha(opacity=0)";
+ filter: alpha(opacity=0);
+
+ }
+
+
+
+.content .excerpt a.focus:hover:before {
+ visibility: visible;
+ opacity: .75;
+ -ms-filter: "alpha(opacity=75)";
+ filter: alpha(opacity=75);
+ }
+
+.content .excerpt a.focus:hover:after {
+ visibility: visible;
+ opacity: 1;
+ -ms-filter: "alpha(opacity=100)";
+ filter: alpha(opacity=100);
+ }
+
+.content .excerpt a.focus:hover img {
+ -webkit-transform: scale(1.08);
+ -moz-transform: scale(1.08);
+ transform: scale(1.08);
+ }
+
+ .excerpt .focus {
+     float: ; 
+     margin-left: 0px; 
+     width: ; 
+}
