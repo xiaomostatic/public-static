@@ -1,0 +1,154 @@
+.logtop h3 {
+	font-weight: 700;
+	margin: 10px 0;
+	background-color: #f6f6f6;
+	border-left: 5px solid #FF5E52
+}
+
+.logtop h4 {
+	font-weight: 700;
+	margin: 10px 0;
+	padding: 5px 15px;
+	background-color: #f6f6f6;
+	border-left: 5px solid #9461E6;
+	width: 100px
+}
+
+.logtop h4.dz {
+	border-left: 5px solid #5DDB4F
+}
+
+.mv4 h4 {
+	font-weight: 700;
+	margin: 10px 0;
+	padding: 10px;
+	background-color: #f6f6f6;
+	border-left: 10px solid #61b3e6
+}
+
+.logtop a {
+	text-decoration: none
+}
+
+.logtop p {
+	font-size: 14px!important;
+	line-height: 1em!important;
+	color: rgba(0,0,0,.8);
+	margin-bottom: 18px!important;
+	letter-spacing: 1px
+}
+
+.logtop {
+	position: relative
+}
+
+.logtop dt {
+	float: left
+}
+
+.logtop dt img {
+	width: 180px;
+	height: 240px;
+	margin-right: 20px
+}
+
+.logtop dd {
+	display: inline-block;
+	height: 255px;
+	min-width: 200px
+}
+
+.logtop dd p {
+	font-size: 14px!important;
+	color: rgba(0,0,0,.4)!important;
+	line-height: 1.5em!important
+}
+
+.logtop dl p {
+	font-size: 14px!important;
+	color: rgba(0,0,0,.4)!important;
+	line-height: 1.4em!important
+}
+
+.logtop dd p a:hover,.logtop dl p a:hover {
+	text-decoration: none
+}
+
+.logtop dd p .fcolor {
+	border-bottom: 0;
+	color: #fff;
+	padding: 1px 5px 2px 1px;
+	margin-right: 3px
+}
+
+.logtop dd p .fcolor:nth-child(6n+1) {
+	background-color: #E88B88
+}
+
+.logtop dd p .fcolor:nth-child(6n+2) {
+	background-color: #71DE71
+}
+
+.logtop dd p .fcolor:nth-child(6n+3) {
+	background-color: #71D2EF
+}
+
+.logtop dd p .fcolor:nth-child(6n+4) {
+	background-color: #F3C585
+}
+
+.logtop dd p .fcolor:nth-child(6n+5) {
+	background-color: #9BCBF5
+}
+
+.logtop dl p .spbut {
+	border: 1px solid #5db8f8;
+	border-radius: 2px;
+	line-height: 28px;
+	color: #5db8f8;
+	width: 90px;
+	height: 35px;
+	line-height: 35px;
+	box-shadow: none;
+	background: #fff;
+	display: inline-block;
+	text-align: center;
+	margin: 2px auto;
+	font-size: 12px;
+	text-decoration: none;
+	-webkit-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px
+}
+
+.logtop dl p .spbut:hover {
+	border: 1px solid #5db8f8;
+	color: #fff;
+	background-color: #5db8f8
+}
+
+.context .fanhui a {
+	border: 1px solid #242424;
+	border-radius: 2px;
+	line-height: 28px;
+	color: #242424;
+	width: 60px;
+	height: 30px;
+	line-height: 30px;
+	box-shadow: none;
+	background: #fff;
+	display: inline-block;
+	text-align: center;
+	margin: 2px auto;
+	font-size: 12px;
+	text-decoration: none;
+	-webkit-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px
+}
